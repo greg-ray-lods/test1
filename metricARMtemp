@@ -42,8 +42,8 @@
             "defaultValue": "{}"
         },
         "privateEndpoints": {
-            "type": "string",
-            "defaultValue": "{}"
+            "type": "array",
+            "value": "[]"
         },
         "privateDnsZone": {
             "type": "string"
