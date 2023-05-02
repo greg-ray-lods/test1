@@ -18,8 +18,8 @@
             "type": "String"
         },
         "tagValues": {
-            "type": "Object",
-            "defaultValue": {}
+            "type": "string",
+            "defaultValue": "{}"
         },
         "storageResourceName": {
             "type": "String"
