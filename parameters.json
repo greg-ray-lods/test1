@@ -1,0 +1,48 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "name": {
+            "value": "metricsHkB9e"
+        },
+        "location": {
+            "value": "eastus"
+        },
+        "sku": {
+            "value": "S0"
+        },
+        "resourceGroupId": {
+            "value": "/subscriptions/4ea8989e-082a-4a17-82db-922ca81735f1/resourceGroups/AI-in-a-Daylod30640078"
+        },
+        "resourceGroupName": {
+            "value": "AI-in-a-Daylod30640078"
+        },
+        "tagValues": {
+            "value": {}
+        },
+        "vnet": {
+            "value": {}
+        },
+        "ipRules": {
+            "value": []
+        },
+        "virtualNetworkType": {
+            "value": "None"
+        },
+        "privateEndpoints": {
+            "value": []
+        },
+        "privateDnsZone": {
+            "value": "privatelink.cognitiveservices.azure.com"
+        },
+        "enableStorageOption": {
+            "value": "disable"
+        },
+        "storageResourceName": {
+            "value": ""
+        },
+        "storageResourceGroupName": {
+            "value": ""
+        }
+    }
+}
