@@ -34,7 +34,8 @@
             "type": "string"
         },
         "vnet": {
-            "type": "object"
+            "type": "string",
+            "defaultValue": "{}"
         },
         "ipRules": {
             "type": "array"
