@@ -38,8 +38,8 @@
             "defaultValue": "{}"
         },
         "ipRules": {
-            "type": "array",
-            "defaultValue": "[]"
+            "type": "string",
+            "defaultValue": "{}"
         },
         "privateEndpoints": {
             "type": "array",
